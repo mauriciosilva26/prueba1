@@ -1,0 +1,10 @@
+{
+    "Alice": {
+        "cell_phone": "123-456-7890",
+        "address": "123 Maple Street"
+    },
+    "Bob": {
+        "cell_phone": "987-654-3210",
+        "address": "456 Oak Avenue"
+    }
+}
