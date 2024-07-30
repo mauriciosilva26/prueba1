@@ -1,0 +1,9 @@
+azul 
+amarillo
+rojo
+morado
+púrpura
+violeta
+vinotinto
+aguamarina
+naranja
